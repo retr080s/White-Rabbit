@@ -14,7 +14,8 @@ while True:
   print("2) - Dark Web")
   print("3) - Documents")
   print("4) - Crypto Wallet Tracker")
-  print("5) - Plane/Ship Tracker")
+  print("5) - Ship, Yacht, Boat, Plane, Helicopter Live Tracker")
+  print("6) - Image Search")
   print("99) - Exit")
   
   choice = input("Enter Choice: ")
@@ -39,17 +40,39 @@ while True:
     print("[+] https://onions.es/")
   elif (choice == "3"):
     print("Search engine used for finding documents: ")
-    print("[+] http://www.findpdfdoc.com/")
+    print("[+] https://www.findpdfdoc.com/")
   elif (choice == "4"):
     print("Finding information about cryptocurrencies and crypto wallets: ")
     print("[+] https://addresswatcher.com/")
     print("[+] https://www.walletexplorer.com/")
     print("[+] https://oxt.me/")
-    print("[+] https://www.fsma.be/en/warnings/companies-operating-unlawfully-in-belgium?field_type_of_fraude_tid_i18n=10595&submit=Apply")
-    print("[+] http://bitcoinwhoswho.com/")
+    print("[+] https://etherscan.io/")
+    print("[+] https://bitcoinwhoswho.com/")
     print("[+] https://blockchain.info/")
     print("[+] http://bitcoinwhoswho.com/")
     print("[+] https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/")
+  elif (choice == "4"):
+    print("Tracker for yachts, boats, ships, planes and helicopters: ")  
+    print("[+] https://www.marinetraffic.com")
+    print("[+] https://www.myshiptracking.com/")
+    print("[+] https://www.marinevesseltraffic.com/")
+    print("[+] https://shiptracker.live/")
+    print("[+] https://www.flightradar24.com")
+    print("[+] https://www.radarbox.com")
+    print("[+] https://planefinder.net/")
+  elif (choice == "3"):
+    print("Image/Video search engines: ")
+    print("[+] https://yandex.com/images/")
+    print("[+] https://www.bing.com/?scope=images&nr=1&FORM=NOFORM")
+    print("[+] https://image.baidu.com/")
+    print("[+] http://fotoforensics.com/")
+    print("[+] https://www.google.com/imghp")
+    print("[+] https://findface.ru/")
+    print("[+] https://www.imageidentify.com/")
+    print("[+] https://imgops.com/")
+    print("[+] https://pimeyes.com/en")
+    print("[+] https://rootabout.com/")
+    print("[+] https://www.reverse-image-search.org/")
   elif (choice == "99"):
     break
   else:
