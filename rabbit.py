@@ -51,7 +51,7 @@ while True:
     print("[+] https://blockchain.info/")
     print("[+] http://bitcoinwhoswho.com/")
     print("[+] https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/")
-  elif (choice == "4"):
+  elif (choice == "5"):
     print("Tracker for yachts, boats, ships, planes and helicopters: ")  
     print("[+] https://www.marinetraffic.com")
     print("[+] https://www.myshiptracking.com/")
@@ -60,7 +60,7 @@ while True:
     print("[+] https://www.flightradar24.com")
     print("[+] https://www.radarbox.com")
     print("[+] https://planefinder.net/")
-  elif (choice == "3"):
+  elif (choice == "6"):
     print("Image/Video search engines: ")
     print("[+] https://yandex.com/images/")
     print("[+] https://www.bing.com/?scope=images&nr=1&FORM=NOFORM")
