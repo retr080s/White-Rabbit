@@ -4,7 +4,6 @@ Wake up...
 Follow the white rabbit.
 
 https://github.com/retr080s
-                                               
 
 """)
 
@@ -25,26 +24,37 @@ while True:
   #choice = choice.strip()
    
   if (choice == "1"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Here are some links that might help you: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://archive.is")
     print("[+] https://archive.org")
     print("[+] https://github.com/hartator/wayback-machine-downloader")
     print("[+] https://www.aware-online.com/osint-tools/web-archive-search-tool/")
     print("[+] https://cachedview.com/")
     print("[+] https://www.cachedpages.com/")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "2"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Dark web search engines: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://tor.taxi/")
     print("[+] https://ahmia.fi/")
     print("[+] https://darkwebnews.com/")
     print("[+] https://www.deepweb-sites.com/deep-web-search-engines/")
     print("[+] https://www.torscan.io/")
     print("[+] https://onions.es/")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "3"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Search engine used for finding documents: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://www.findpdfdoc.com/")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "4"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Finding information about cryptocurrencies and crypto wallets: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://addresswatcher.com/")
     print("[+] https://www.walletexplorer.com/")
     print("[+] https://oxt.me/")
@@ -53,8 +63,11 @@ while True:
     print("[+] https://blockchain.info/")
     print("[+] http://bitcoinwhoswho.com/")
     print("[+] https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "5"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Tracker for yachts, boats, ships, planes and helicopters: ")  
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://www.marinetraffic.com")
     print("[+] https://www.myshiptracking.com/")
     print("[+] https://www.marinevesseltraffic.com/")
@@ -62,8 +75,11 @@ while True:
     print("[+] https://www.flightradar24.com")
     print("[+] https://www.radarbox.com")
     print("[+] https://planefinder.net/")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "6"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Image/Video search engines: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://yandex.com/images/")
     print("[+] https://www.bing.com/?scope=images&nr=1&FORM=NOFORM")
     print("[+] https://image.baidu.com/")
@@ -75,16 +91,22 @@ while True:
     print("[+] https://pimeyes.com/en")
     print("[+] https://rootabout.com/")
     print("[+] https://www.reverse-image-search.org/")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "7"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Links to the cameras with live feed and unsecured cameras: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://reolink.com/unsecured-ip-camera-list/")
     print("[+] https://www.123webcam.com/")
     print("[+] https://airportwebcams.net/")
     print("[+] https://www.earthcam.com/")
     print("[+] https://www.insecam.org/")
     print("[+] https://worldcam.eu/")
-   elif (choice == "8"):
-    print("World maps + Social media maps ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+  elif (choice == "8"):
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    print("World maps + Social media maps: ")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("[+] https://dualmaps.com/")
     print("[+] https://livingatlas.arcgis.com/wayback")
     print("[+] https://www.mapchecking.com/")
@@ -99,6 +121,7 @@ while True:
     print("[+] https://www.strava.com/heatmap")
     print("[+] https://map.snapchat.com/")
     print("[+] https://www.openseamap.org")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
   elif (choice == "99"):
     break
   else:
