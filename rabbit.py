@@ -16,6 +16,8 @@ while True:
   print("4) - Crypto Wallet Tracker")
   print("5) - Ship, Yacht, Boat, Plane, Helicopter Live Tracker")
   print("6) - Image Search")
+  print("7) - Cameras (Live Feed)")
+  print("8) - Maps")
   print("99) - Exit")
   
   choice = input("Enter Choice: ")
@@ -73,6 +75,30 @@ while True:
     print("[+] https://pimeyes.com/en")
     print("[+] https://rootabout.com/")
     print("[+] https://www.reverse-image-search.org/")
+  elif (choice == "7"):
+    print("Links to the cameras with live feed and unsecured cameras: ")
+    print("[+] https://reolink.com/unsecured-ip-camera-list/")
+    print("[+] https://www.123webcam.com/")
+    print("[+] https://airportwebcams.net/")
+    print("[+] https://www.earthcam.com/")
+    print("[+] https://www.insecam.org/")
+    print("[+] https://worldcam.eu/")
+   elif (choice == "8"):
+    print("World maps + Social media maps ")
+    print("[+] https://dualmaps.com/")
+    print("[+] https://livingatlas.arcgis.com/wayback")
+    print("[+] https://www.mapchecking.com/")
+    print("[+] https://zoom.earth/")
+    print("[+] https://www.bing.com/maps")
+    print("[+] https://www.maxar.com/")
+    print("[+] https://usa.liveuamap.com/")
+    print("[+] https://www.instantstreetview.com/")
+    print("[+] https://umap.openstreetmap.fr/en/map/islamic-state-claimed-provinces-map_29647#7/34.012/44.846")
+    print("[+] https://www.google.com/maps/")
+    print("[+] https://yandex.com/maps/")
+    print("[+] https://www.strava.com/heatmap")
+    print("[+] https://map.snapchat.com/")
+    print("[+] https://www.openseamap.org")
   elif (choice == "99"):
     break
   else:
