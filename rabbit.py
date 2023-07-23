@@ -1,9 +1,9 @@
 print("""\
 
-Wake up...
-Follow the white rabbit.
+White Rabbit OSINT
 
-https://github.com/retr080s
+*For new updates visit:
+https://github.com/retr080s/White-Rabbit
 
 """)
 
