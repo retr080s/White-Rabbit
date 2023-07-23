@@ -1,7 +1,12 @@
 <h1>White Rabbit 🐇</h1>
 
+<img src="https://img.shields.io/badge/Python 🐍 -blue"> <img src="https://img.shields.io/badge/OSINT 🕵️‍ -blue"> <img src="https://img.shields.io/badge/Under Construction 🔨 -blue">
+
+https://retr080s.github.io/White-Rabbit/
+
 
 > White Rabbit is a tool which helps the OSINT research individuals and teams.
+
 
 How to install White Rabbit?
 
